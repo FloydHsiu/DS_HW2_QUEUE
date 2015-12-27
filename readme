@@ -1,0 +1,31 @@
+OS:	OSX 10.11.1
+Compiler:	Apple LLVM version 7.0.0 (clang-700.1.76)
+
+一開始將服務的各種time輸入
+中間以空白隔開
+EX:
+
+Input:
+	Arrive time	Service time	Allowable waiting time
+Client 1: 3 5 7
+Client 2: 5 7 8
+Client 3: 9 9 5
+
+當輸入到最後一個之後，只輸入一個-1即可終止輸入
+
+EX:
+
+Input:
+	Arrive time	Service time	Allowable waiting time
+Client 1: 3 5 7
+Client 2: 5 7 8
+Client 3: 9 9 5
+Client 4: 12 3 10
+Client 5: 13 2 4
+Client 6: 16 6 3
+Client 7: -1
+
+然後程式開始計算
+結果印出
+
+程式結束
