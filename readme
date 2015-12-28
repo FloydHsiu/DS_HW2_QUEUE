@@ -1,5 +1,5 @@
-OS:	OSX 10.11.1
-Compiler:	Apple LLVM version 7.0.0 (clang-700.1.76)
+OS : Ubuntu 14.04LTS
+Compiler : gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04)
 
 一開始將服務的各種time輸入
 中間以空白隔開
